@@ -1,2 +1,4 @@
 # first-one
-obviously first repository created
+first repository created
+
+I like :pizza: and :motorcycle:.
