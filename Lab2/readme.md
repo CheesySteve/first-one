@@ -1,4 +1,5 @@
 ### Executive Summary
+This week in class we have learned about some of the hardware in a computer and what they do. We have gone over hard drives and solid state drive, memory, the ALU and control unit, the CPU, and input and output devices. We also spent some time learning about the different number systems that a computer can use. We learned to convert deciaml into binary and binary into decimal.
 ### Hardware
 ##### Hard Drives
 The time it takes a hard drive to physically find the data on the disk is latency. While transfer rates is the speed the data is transferred. Solid state drives are different from traditional hard drives because they don't have any moving parts. They are a series of memory cards that store data that can be retrieves almost instantly. The only down side is they are much more expensive.
@@ -15,5 +16,7 @@ The IEEE is nonprofit organization formed to advance technology for the benfit o
 ### Data Representation
 ##### Numeric Conversions
 The decimal number system is the system we use and are familier with. It uses the base power of 10. Binary uses a base power of 2 and hexadecimal uses a base power of 16.
-
+##### Hexadecimal Color Representation
+#ff016b is the hexadecimal number output for vivid pink. This color could be problematic if the user is color blind. If the text or other information is written in this color, a color blind person might not be able to see it. Also, the color is very bright and can cause strain when looking at it for too long.
 ### Conclusion
+
