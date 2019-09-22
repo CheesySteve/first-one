@@ -1,4 +1,5 @@
 #### Executive Summary
+This week we have learned more about Python and how to use it. We have written a basic code and learned what each part of it means. We also learned about graphics. Different types of images and what they are used for.
 
 #### Python Idle
 The file editor is where the code is written and the shell is the product.
@@ -22,5 +23,9 @@ Developers need to pay attention because while either can be used, lossy compres
 File Formats
 A GIF is different from the others because it allows for animated images. A JPEG uses lossy compression while a PNG image uses lossless compression.
 
+File Properties
+I created an image of a logo for an imaginary taco stand that I could own one day. I used 21 layers to create this image. This image is 52.7 KB and opens with photo. One of the options is to use the paint tool which might be useful to maybe edit the image.  
+
 
 #### Conclusion
+This week was a little more "fun". We got to create a basic code and even create an image. I look forward to continue to learn these new tools that will hopefully be helpful in the future.
