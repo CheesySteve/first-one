@@ -13,4 +13,14 @@ Data Types - A data type is a category for values, and every value belongs to on
 
 #### Graphics
 
+Raster vs Vector Graphics
+A raster image is a image that is made up of tiny pixels that are nearly invisable but are more noticable when the image is zoomed in. A raster image can be used for any occasion, as long as the image does not need to be enlarged or zoomed in. Vector images can be any size without losing any quality. They are rendered using a special form of geometry. They are used in professional design settings.
+
+Lossless vs Lossy Compression
+Developers need to pay attention because while either can be used, lossy compression can save space by creating smaller file sizes and create images nearly identical to the original.
+
+File Formats
+A GIF is different from the others because it allows for animated images. A JPEG uses lossy compression while a PNG image uses lossless compression.
+
+
 #### Conclusion
