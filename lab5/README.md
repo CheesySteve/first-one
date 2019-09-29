@@ -23,8 +23,11 @@ The NSA/CSS learn what adversaries do and what they are capable of in order to m
 #### Cybersecurity and Encryption
 ###### Information Systems Security
 b. Almost every day I use my debit card. This requires a 4 digit pass code. It could made into multi factor by requiring an ID. Another thing that needs authentication is my cell phone. To unlock it, I put in the 4 digit pass code. To make it multi factor I could aslo use the fingerprint scanner that is already built into the phone. Another task that requires authentication would be logging into my Tri-c account. All that is required is a username and password. It could be made more secure by requiring the user to show up in person at the library with an ID to log into there account.
-c. With ACL's, for each user, specific capabilites are assigned. ACL's are simple but can be a disadvantage when an admin wants to set clearance to a large set of data. In RBAC, users are assigned to roles, then the roles are assigned to the access. This allows admins to manage users and roles seperately. 
+
+c. With ACL's, for each user, specific capabilites are assigned. ACL's are simple but can be a disadvantage when an admin wants to set clearance to a large set of data. In RBAC, users are assigned to roles, then the roles are assigned to the access. This allows admins to manage users and roles seperately.
+
 d. When information needs to be sent but needs to be proteced, it can be encrypted. One way is the public key encryption. A public key is given to someone who wishes to send a message. They encrypt the message and then send it. The message becomes cyphertext and is becomes nonsense. The message is recieved and then decrypted with the private key.
+
 e. Public key cryptography is important because it's an simple yet effictive way to protect and secure data.
 ###### Cryptography
 The caesar cipher encryption - It results in random letters but the same amount of them.
