@@ -1,4 +1,5 @@
 #### Executive Summary
+This week we will be learning about internet architechture, HTML5 and CSS, and URLs and file paths. These components are important, not only for those working towards a web development career, but everyone to have a basic understanding of how the internet works. 
 #### Internet Architecture
 ###### Internet Protocol
 IP addresses are the numbers assigned to computer network interfaces. The difference between IPv4 and IPv6 is that IPv4 is 32 bit and uses a numeric address, while the IPv6 is 128 bit and uses hexadecimal address.
@@ -25,8 +26,5 @@ top level domain-.edu
 default page-result of search
 parameter-no file path provided
 anchor-specific location on a page
-
-
-
-
 #### Conclusion
+This week is important for people who might want to get in to web development one day. Being able to design and create web sites is a big deal in todays world. I don't think many people understand how difficult it can be.
