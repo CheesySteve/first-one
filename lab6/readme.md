@@ -14,6 +14,18 @@ You should secure your browser because the average internet user will not be abl
 #### Internet Programming
 ###### World Wide Web Censoritum
 Tim-Berners Lee is the creator of the world wide web and he created W3C to standardize web technologies. One standard that I believe is important is the mobile web. They have made technologies for using the web on devices like smart phones.
+###### HTML5 and CSS
+Unfortunately, I am not good with design and color schemes. I just picked some colors that I thought looked nice. Most people would probably disagree.
+###### HTML5 and XML
+XML is a markup language designed to store and transfer data. XML was designed to carry data while HTML was designed to show how data looks.
+#### Components of a URL
+scheme-https
+domain-www.amazon.com
+top level domain-.edu
+default page-result of search
+parameter-no file path provided
+anchor-specific location on a page
+
 
 
 
