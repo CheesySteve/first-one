@@ -21,10 +21,15 @@ Unfortunately, I am not good with design and color schemes. I just picked some c
 XML is a markup language designed to store and transfer data. XML was designed to carry data while HTML was designed to show how data looks.
 #### Components of a URL
 scheme-https
+
 domain-www.amazon.com
+
 top level domain-.edu
+
 default page-result of search
+
 parameter-no file path provided
+
 anchor-specific location on a page
 #### Conclusion
 This week is important for people who might want to get in to web development one day. Being able to design and create web sites is a big deal in todays world. I don't think many people understand how difficult it can be.
