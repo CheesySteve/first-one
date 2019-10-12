@@ -12,19 +12,24 @@ Instantiating an object means to create an object in a class.
 OMG is a not-for-profit technology standards consortium, founded in 1989. They oversee the definition and maintenance of UML specifications. UML are tools for analysis, design, and implementation of software-based systems as well as for modeling business and similar processes.
 
 Object - Sammy
+
 The object in the shark class is Sammy.
 
 Class - shark
+
 The basic building block.
 
 Abstraction - swim(self)
+
 The behaivor of the shark is to swim.
 
 Encapsulation - definition of a shark
+
 Data that can be in the code but hidden.
 
 
 Inheritance - specific type of shark
+
 Can be made into a smaller class but still under the class shark.
 
 
