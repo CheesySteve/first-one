@@ -1,4 +1,5 @@
 #### Executive Summary
+This week we are learning about Databases, SQL, and ethical and legal implications. We will learn about various databases and database models. We will also learn about some of the ethical and legal implications of IT.
 #### Data, Information and Knowledge
 ###### Relational Data
 Data are raw bits of information without context. Information is just data with context. Knowledge is taking the information, and analyzing it to make decisions.
@@ -23,3 +24,4 @@ WIPO is the global forum for intellectual property (IP) services, policy, inform
 Once you create something original, it is automatically copyrighted to you. If you want to use it commercially, you must apply through the US copyright office. It would be benificial to copyright my image because if I would ever want to use it, I can. Also, no one else would be able to take it and use it.
 That image that is trademarked identifies that the product is made from the company that trademarked it. That protects the company from people taking advantage of using someone elses logo or theme to make sales.
 #### Conclusion
+We have learned about several different databases and models. We also looked into the code of ethics and AUPs. Which are very important because no matter what field someone gets into, there will be a code of ethics to live by.
